@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "target": "es5",
+        "lib": [
+            "dom",
+            "es2015",
+            "es2016",
+            "es2017"
+        ],
+        "module": "es6",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "strict": true,
+        "strictPropertyInitialization": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "allowUnusedLabels": false,
+        "noImplicitAny": false,
+        "importHelpers": true,
+        "sourceMap": true
+    },
+    "include": [
+        "./**/*.ts",
+        "./**/*.vue"
+    ],
+    "compileOnSave": false
+}

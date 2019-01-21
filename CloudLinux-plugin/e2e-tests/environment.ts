@@ -1,0 +1,9 @@
+export const WHMCS_HOST = process.env.WHMCS_HOST || 'whmcs.cloudlinux.com';
+export const WHMCS_HOST_USER = process.env.WHMCS_HOST_USER || 'root';
+export const WHMCS_HOST_PASSWORD = process.env.WHMCS_HOST_PASSWORD;
+export const WHMCS_MYSQL_DB = process.env.WHMCS_MYSQL_DB || 'whmcs_w';
+export const WHMCS_MYSQL_USER = process.env.WHMCS_MYSQL_USER || 'whmcs_w';
+export const WHMCS_MYSQL_PASSWORD = process.env.WHMCS_MYSQL_PASSWORD;
+export const USE_STANDALONE_SELENIUM = process.env.USE_STANDALONE_SELENIUM;
+export const USE_LOCAL_SELENIUM = process.env.USE_LOCAL_SELENIUM && !USE_STANDALONE_SELENIUM;
+export const HEADLESS = process.env.HEADLESS;

@@ -1,0 +1,7 @@
+.idea
+*.zip
+CloudLinux-plugin/.idea
+CloudLinux-plugin/frontend/node_modules
+CloudLinux-plugin/e2e-tests/node_modules
+CloudLinux-plugin/e2e-tests/reports
+CloudLinux-plugin/modules/servers/CloudLinuxLicenses/templates/assets/addon

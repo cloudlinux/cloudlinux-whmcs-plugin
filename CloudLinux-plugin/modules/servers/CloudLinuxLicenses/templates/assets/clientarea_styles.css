@@ -1,0 +1,52 @@
+button.btn img {margin-right: 2px;}
+
+#cl_alerts .box-success, #cl_alerts .box-error {padding:5px;margin-bottom:10px;}
+#cl_alerts .box-success {background-color: #DFF0D8;}
+#cl_alerts .box-error {background-color: #F2DEDE;}
+.os_slider {margin:10px 5px;}
+.green {font-weight:bold;color:green;}
+.red {font-weight:bold;color:red}
+#rbuttons,#nbuttons { padding-bottom: 20px; text-align: center; }
+#rbuttons .btn,#nbuttons .btn {margin:5px;width:30%;}
+
+/* Client license block */
+.cl-info {
+    width: 100%;
+    margin: 5px auto 10px auto;
+    border: solid 1px #ddd;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 13px;
+}
+.cl-info-header {
+    text-align: left;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #f5f5f5;
+}
+.cl-row { text-align: center; }
+.cl-license-info {
+    display: flex;
+    justify-content: space-between;
+}
+.cl-col {
+    padding: 10px;
+    border: solid 1px #ddd;
+    border-radius: 5px;
+    margin: 10px;
+}
+.cl-description { font-weight: bold; }
+.cl-status-registered { color: #779500; }
+.cl-status-unregistered { color: #cc0000; }
+.cl-table { margin-top: 10px; }
+.cl-table th, .cl-table td {
+    border: solid 1px #ddd;
+    border-collapse: collapse;
+}
+.cl-table-header {
+    text-align: center;
+    background-color: #f5f5f5;
+}
+.cl-table td, .cl-table th {
+    padding: 5px 10px;
+}
