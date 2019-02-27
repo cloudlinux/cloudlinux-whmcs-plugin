@@ -20,5 +20,5 @@ Further information can be found at "WHMCS plugin" on https://docs.imunify360.co
 --------
 
 # Licensing
-Plugin code itself is licensed under the GPL License, Version 2.0 (see
+Plugin code itself is licensed under the BSD License, Version 2.0 (see
 [LICENSE](https://github.com/cloudlinux/cloudlinux-whmcs-plugin/blob/master/LICENSE)). 
